@@ -1,0 +1,21 @@
+.red-bg {
+    background-color: #ff7d7d;
+}
+
+.green-bg {
+    background-color: #8ff28f;
+}
+
+#blue-heading {
+    color: blue;
+    font-size: 34px;
+}
+
+#bold-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.large-heading {
+    font-size: 40px;
+}
